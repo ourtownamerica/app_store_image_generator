@@ -15,7 +15,7 @@
  - Name each screen the same thing across platforms
  - Save in `/android_phone` or `/android_tablet`
 
-## Generating the proptional graphics
+## Generating the promotional graphics
  - Modify `messagfes.json` to include a blurb for every file (all files must exist in all platforms)
  - run `php -f generate_all.php`
  - Files generate into the `/out` directory.
